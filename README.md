@@ -2,7 +2,7 @@
 [![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)]
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">Hello and welcome! I am a data science enthusiast, I have a keen interest in the field of data science and its applications.</h3>
-<img align="right" alt="Coding" width="400" src='https://chools.in/wp-content/uploads/data-science-2-1.gif'>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhshubham-57&label=Profile%20views&color=0e75b6&style=flat" alt="singhshubham-57" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhshubham-57" alt="singhshubham-57" /></a> </p>
