@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Agriculture Crop Prediction**
 
-- 🌱 I’m currently learning **Deep Learning , SQL**
+- 🌱 I’m currently learning **Machine Learning , SQL**
 
 - 📝 I regularly write articles on [https://medium.com/@shubhamsingh123166](https://medium.com/@shubhamsingh123166)
 
